@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫About Me :
-- 😃 I am currently as a Flutter developer
+- 😃 I am currently working as a Flutter developer
 - 🐬 I'm learning more about Web3 & BlockChain
 - 🌱 I'm a passionate Udemy learner 
 - ☀️ I'm also working with React Native and Kotlin
