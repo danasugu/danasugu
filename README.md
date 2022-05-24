@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 # 💫About Me :
-😃 I am currently as a Flutter developer
-🐬 I'm learning more about Web3 & BlockChain
-🌱 I'm a passionate Udemy learner 
-☀️ I'm also working with React Native and Kotlin
-📚 I love reading
-🚲 Riding my bike is the best way to relax
+- 😃 I am currently as a Flutter developer
+- 🐬 I'm learning more about Web3 & BlockChain
+- 🌱 I'm a passionate Udemy learner 
+- ☀️ I'm also working with React Native and Kotlin
+- 📚 I love reading
+- 🚲 Riding my bike is the best way to relax
 
 
 ## 🌐Socials
