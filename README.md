@@ -7,7 +7,7 @@
 - ☀️ I'm also working with React Native and Kotlin
 - 📚 I love reading
 - 🚲 🔋 Riding my bike is the best way to relax
-- 🔴 https://www.danasugu.com/
+- 🔴 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) is awesome!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dana-sugu-9b044343/) 
