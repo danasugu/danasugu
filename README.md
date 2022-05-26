@@ -3,7 +3,7 @@
 # 💫About Me :
 - 😃 I am currently working as a ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) developer. 🔴 Flutter is awesome!
 
-- 🐬 I'm learning more about Web3 & BlockChain
+- 🐬 I'm daily learning more about Web3 & BlockChain
 - 🌱 I'm a passionate Udemy learner
 - ☀️ I'm also working with React Native and Kotlin
 - 📚 I love reading
