@@ -7,7 +7,7 @@
 - 🌱 I'm a passionate Udemy learner
 - ☀️ I'm also working with React Native and Kotlin
 - 📚 I love reading
-- 🚲 🔋 Riding my bike is the best way to relax
+- 🔋 Riding my bike is the best way to relax
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dana-sugu-9b044343/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SuguDana) 
