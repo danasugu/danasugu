@@ -20,7 +20,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=danasugu) 
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=danasugu) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=danasugu) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danasugu)
 
 ## 🏆GitHub Trophies
