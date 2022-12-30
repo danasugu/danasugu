@@ -4,7 +4,7 @@
 - 😃 I am currently working as a Flutter developer. 🔴 Flutter is awesome!
 
 - 🐬 I'm daily learning more about Web3 & BlockChain
-- 🌱 I'm a passionate Udemy learner
+- 🌱 I'm a passionate Udemy & Pluralsight learner
 - 📚 I love reading
 - 🔋 Riding my bike is the best way to relax for me
 
