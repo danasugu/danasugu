@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫About Me :
-- 😃 <kbd> I am currently working as a Flutter developer. </kbd> 🔴 Flutter is awesome!
+- 😃  I am currently working as a Flutter developer.  🔴 Flutter is awesome!
 
 - 🐬 I'm daily learning more about Web3 & BlockChain
 - 🌱 I'm a passionate Udemy & Pluralsight learner
