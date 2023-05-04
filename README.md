@@ -3,7 +3,6 @@
 # 💫About Me :
 - 😃  I am currently working as a Flutter developer. Flutter is awesome!
 - 🔴 I am also learning AI and data science, Machine learning, TensorFlow library
-- 🐬 I am daily learning more about Web3 & BlockChain
 - 🌱 I'm a passionate Udemy & Pluralsight learner
 - 📚 I love reading
 - 🔋 Riding my bike is the best way to relax for me
