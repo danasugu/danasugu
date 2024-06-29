@@ -2,7 +2,7 @@
 
 # 💫About Me :
 - 😃  I am currently working as a Flutter developer. Flutter is awesome!
-- 🔴  I am as well honing my skills in WordPress development, focusing on creating and optimizing websites for enhanced user experience and functionality.
+- 🔴  Working on honing my skills in WordPress development, focusing on creating and optimizing websites for enhanced user experience and functionality.
 - 🌱 I'm a passionate Udemy & Pluralsight learner
 - 📚 I love reading
 - 🔋 Riding my bike is the best way to relax for me
